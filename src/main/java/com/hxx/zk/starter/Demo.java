@@ -6,7 +6,7 @@ import com.hxx.zk.service.WorkService;
  * <ul>
  * <li>功能说明：启动测试</li>
  * <li>作者：tal on 2019/9/19 0019 16:09 </li>
- * <li>邮箱：houxiangxiang@cibfintech.com</li>
+ * <li>邮箱：hou_xiangxiang@126.com</li>
  * </ul>
  */
 public class Demo {

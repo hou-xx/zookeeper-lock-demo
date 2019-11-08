@@ -10,7 +10,7 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
  * <ul>
  * <li>功能说明：模拟业务</li>
  * <li>作者：tal on 2019/9/19 0019 16:19 </li>
- * <li>邮箱：houxiangxiang@cibfintech.com</li>
+ * <li>邮箱：hou_xiangxiang@126.com</li>
  * </ul>
  */
 public class WorkService {
